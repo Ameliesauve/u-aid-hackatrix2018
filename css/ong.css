@@ -1,0 +1,38 @@
+body {
+    font-family:  'Karla', sans-serif;
+}
+header {
+    margin-top: 0;
+    width: 100%;
+    height: 70px;
+    background-color: orange;
+  }
+  header p {
+    margin-top: 6px;
+    font-size: 20px bold;
+    color: white;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+  }
+  span {
+    color: black;
+    font-size: 12px bold;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+  }
+  
+  section {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .card {
+    border: 3px solid;
+  }
+  
+  a .card-link: {
+    font-weight: bold;
+  }
+  
