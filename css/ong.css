@@ -4,8 +4,10 @@ body {
 header {
     margin-top: 0;
     width: 100%;
-    height: 70px;
-    background-color: orange;
+    height: 130px;
+    background-color: #00acea;
+    text-align: center;
+    font-size: 40px;
   }
   header p {
     margin-top: 6px;
@@ -14,7 +16,7 @@ header {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
   }
   span {
-    color: black;
+    color: white;
     font-size: 12px bold;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
   }
